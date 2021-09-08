@@ -2,3 +2,4 @@ newfile
 commit yea
 nextmodif
 whynot?
+whatnow
