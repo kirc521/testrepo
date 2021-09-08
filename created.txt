@@ -1,3 +1,4 @@
 newfile
 commit yea
 nextmodif
+whynot?
